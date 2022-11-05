@@ -6,8 +6,12 @@ from rpAnketGenerator import generator
 generator = generator(lang = "ENG")
 print(f"Name : {generator.name}")
 ```
-###### How to import Russian role generator :
+
+###### Эта библиотека была создана для создания ролевых анкет:
+
+###### Как импортировать русский генератор ролевых игр :
 ```
 from rpAnketGenerator import generator
 generator = generator(lang = "RU")
 print(f"Name : {generator.name}")
+````
